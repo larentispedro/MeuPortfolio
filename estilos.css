@@ -1,0 +1,21 @@
+body {
+    background-color:darkseagreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+}
+
+.titulo-linguagem {
+    color: chocolate;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+#exclusivo {
+    background-color: aqua;
+} 
